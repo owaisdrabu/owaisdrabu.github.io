@@ -9,7 +9,9 @@ body{
 .ul{
     list-style-type: none !important;
 }
-
+a{
+    color: initial;
+}
 h1{
     margin:  15% auto 1%;
     color: #a9a9b3;
