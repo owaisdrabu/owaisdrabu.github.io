@@ -3,24 +3,32 @@ body{
     font-family: inter ui,-apple-system,BlinkMacSystemFont,roboto,segoe ui,Helvetica,Arial,sans-serif;
 }
 
-.main{
-    text-align: center;
+.nav{
     color: white;
-    margin:  15% auto;
-
-    
 }
-
-i{
-    color: white;
-    padding: 1%;
+.ul{
+    list-style-type: none !important;
 }
 
 h1{
+    margin:  15% auto 1%;
+    color: #a9a9b3;
+    text-align: center;
     font-size: 2.6rem;
+}
+.main{
+    text-align: center;
+    color: #a9a9b3;
+}
+svg{
+    margin: 1%;
+    color: #a9a9b3;
 }
 
 footer{
-    color: white;
-    text-align: center;
+    position: fixed;
+    color: #a9a9b3;
+    bottom: 5%;
+    width: 100%;   
+    text-align: center; 
 }
